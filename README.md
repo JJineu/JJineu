@@ -48,5 +48,5 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim)](https://solved.ac/joicekim/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7/)
 
