@@ -32,7 +32,7 @@ Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 
-
+<!--
 <p align="center">*------ 🌳 Used as main ------*</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
@@ -50,7 +50,7 @@ Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 </p>
-
+-->
 
 
 
