@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=KIM_HYUN_JIN&fontSize=70&fontColor=FFFFFF)
 
 
-<h3 align="center"> 안녕하세요 </h3>
+<h3 align="center"> 안녕하세요 👋</h3>
 
 <!--
 **JJineu/JJineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
