@@ -41,14 +41,12 @@
 </p>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunny6026%2Fhit-counter&count_bg=%2379C83D&title_bg=%23504B4B&icon=maserati.svg&icon_color=%23C4C8D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
+[![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
 
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunny6026)](https://solved.ac/joicekim/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim)](https://solved.ac/joicekim/)
 
