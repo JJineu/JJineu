@@ -45,7 +45,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=connieya&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connieya&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
 
 
 
