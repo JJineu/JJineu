@@ -30,7 +30,8 @@ Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
 
 <br>
 
-<h3 align="center">💻 Tech Stack 💻</h3>
+
+<!--<h3 align="center">💻 Tech Stack 💻</h3>-->
 
 <!--
 <p align="center">*------ 🌳 Used as main ------*</p>
