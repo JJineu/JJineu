@@ -53,9 +53,13 @@ Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
 -->
 
 
-[![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats), [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7/)
+[![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats) 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7/)
+-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
+-->
 
 
 
