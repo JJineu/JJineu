@@ -17,12 +17,12 @@
 -->
 
 
-My name is Hyunjin Kim (or Joice). Here are some facts about me.
+<!--My name is Hyunjin Kim (or Joice). Here are some facts about me.-->
 
 Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
 <!--Here is my LinkedIn profile if you're interested in me.-->
 
-현재 테크산업으로 커리어 전환을 준비하는 김현진이라고 합니다.
+<!--현재 테크산업으로 커리어 전환을 준비하는 김현진이라고 합니다.-->
 
 최근에 SW사관학교 정글 (https://swjungle.net/)을 수료하였습니다.
 <!--기술와 금융의 시너지에 대해 관심이 많습니다.-->
@@ -54,7 +54,9 @@ Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
 
 
 
-[![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
+[![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)-->
 
 
 
