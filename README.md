@@ -10,7 +10,7 @@
 주100시간 몰입과 협업의 경험을 바탕으로, 새로운 가치를 만들어가고 싶습니다. 
 
 - Back-end developer 희망
-- 카이스트 비학위 과정 - sw 정글 사관학교 수료 ([기록](https://jinongoing.notion.site))
+- 카이스트 비학위 과정 - sw 정글 사관학교 수료 <!-- ([기록](https://jinongoing.notion.site)) -->
 - 고려대 학부 졸업
 
 <br>
