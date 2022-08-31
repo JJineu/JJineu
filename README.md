@@ -45,7 +45,7 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
 ## 📖 Study
 [algorithm study in Jungle](https://github.com/JJineu/AlgorithmStudy_Jungle.git)
 
-[알고리즘 스터디 with 자료구조](https://jinongoing.notion.site/Algorithm-474273f8d46c4bfbb233cf4c8a2ef33a)
+<!-- [알고리즘 스터디 with 자료구조](https://jinongoing.notion.site/Algorithm-474273f8d46c4bfbb233cf4c8a2ef33a) -->
 
 
 
