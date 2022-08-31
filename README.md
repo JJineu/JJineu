@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=KIM_HYUN_JIN&fontSize=70&fontColor=FFFFFF)
 
 
-<h3 align="center"> ## 안녕하세요 김현진(ongoing)입니다 🤗 👋</h3>
+<h3 align="center"> 안녕하세요 김현진(ongoing)입니다👋</h3>
 
 <!--
 **JJineu/JJineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,17 +18,12 @@
 
 
 <!--My name is Hyunjin Kim (or Joice). Here are some facts about me.-->
-
-Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
-<!--Here is my LinkedIn profile if you're interested in me.-->
+**Back-end developer** Hyunjin Kim (or Joice)
+Recently completed a KAIST Non-degree program, CS-focused coding bootcamp (https://swjungle.net/).
 
 **Back-end developer** 를 희망합니다.
-- 카이스트 정글에서 5개월 동안, 주100시간 몰입의 경험을 했습니다.
+- 카이스트 정글(https://swjungle.net/)에서 주100시간 몰입의 경험을 했습니다.
 - **같이 고민하고, 함께 성장하는 환경**을 좋아합니다. 협업과 몰입의 경험을 발판삼아, 새로운 가치를 만들어내고 싶습니다.
-
-최근에 SW사관학교 정글 (https://swjungle.net/)을 수료하였습니다.
-<!--기술와 금융의 시너지에 대해 관심이 많습니다.-->
-
 
 <br>
 
