@@ -52,4 +52,4 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
 valiosahj@korea.ac.kr
 
 
-<br>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
