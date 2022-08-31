@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=Ongoing_hyunjin&fontSize=70&fontColor=FFFFFF)
-
+<!--![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=Ongoing_hyunjin&fontSize=70&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
+-->
 
 ## 🤗 JinOngoing 
 
@@ -42,7 +43,7 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
 
 
 ## 📖 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7)
 
 [algorithm study in Jungle](https://github.com/JJineu/AlgorithmStudy_Jungle.git) (22.05-22.07)
 
@@ -51,5 +52,5 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
 ## 📫 Contact
 valiosahj@korea.ac.kr
 
+<br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
