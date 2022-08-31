@@ -22,7 +22,7 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
 
 <br>
 
-## 💻 Tech Stack 
+## 💻 Study
   <div class="stack">
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
@@ -40,12 +40,14 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7/)
 -->
 
-<br>
 
-## 📖 Study
+## 📖 Algorithm
 [algorithm study in Jungle](https://github.com/JJineu/AlgorithmStudy_Jungle.git) (22.05-22.07)
 
 <!-- [알고리즘 스터디 with 자료구조](https://jinongoing.notion.site/Algorithm-474273f8d46c4bfbb233cf4c8a2ef33a) -->
 
+## 📫 Contact
+valiosahj@korea.ac.kr
 
 
+<br>
