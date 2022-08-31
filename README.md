@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=Onging_hyunjin&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=Ongoing_hyunjin&fontSize=70&fontColor=FFFFFF)
 
 
 ## 🤗 JinOngoing 
@@ -10,7 +10,7 @@
 주100시간 몰입과 협업의 경험을 바탕으로, 새로운 가치를 만들어가고 싶습니다. 
 
 - Back-end developer 희망
-- 카이스트 비학위 과정 - sw 정글 사관학교 수료
+- 카이스트 비학위 과정 - sw 정글 사관학교 수료 ([기록](https://jinongoing.notion.site))
 - 고려대 학부 졸업
 
 <br>
@@ -19,7 +19,7 @@
 
 Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcamp (https://swjungle.net/).
 
----
+
 <br>
 
 ## 💻 Tech Stack 
@@ -32,13 +32,20 @@ Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcam
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 	</div>
 
+<!--
 [![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJineu&theme=tokyonight&line_height=20)](https://github.com/JJineu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJineu&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/JJineu/github-readme-stats)
 
 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joicekim7)](https://solved.ac/joicekim7/)
+-->
 
+<br>
 
+## 📖 Study
+[algorithm study in Jungle](https://github.com/JJineu/AlgorithmStudy_Jungle.git)
+
+[알고리즘 스터디 with 자료구조](https://jinongoing.notion.site/Algorithm-474273f8d46c4bfbb233cf4c8a2ef33a)
 
 
 
