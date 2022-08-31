@@ -18,13 +18,13 @@
 
 
 <!--My name is Hyunjin Kim (or Joice). Here are some facts about me.-->
-- **Back-end developer** Hyunjin Kim (or Joice).
-- Recently completed a KAIST Non-degree program, CS-focused coding bootcamp (https://swjungle.net/).
-
-- **Back-end developer** 를 희망합니다.
-- 카이스트 정글(https://swjungle.net/)에서 주100시간 몰입의 경험을 했습니다.
-- **같이 고민하고, 함께 성장하는 환경**을 좋아합니다. 협업과 몰입의 경험을 발판삼아, 새로운 가치를 만들어내고 싶습니다.
-
+**Back-end developer** Hyunjin Kim (or Joice).
+Recently completed a KAIST Non-degree program, CS-focused coding bootcamp (https://swjungle.net/).
+<p>
+**Back-end developer** 를 희망합니다.
+카이스트 정글(https://swjungle.net/)에서 주100시간 몰입의 경험을 했습니다.
+**같이 고민하고, 함께 성장하는 환경**을 좋아합니다. 협업과 몰입의 경험을 발판삼아, 새로운 가치를 만들어내고 싶습니다.
+</p>
 <br>
 
 
