@@ -18,7 +18,7 @@
 
 **Back-end developer** Hyunjin Kim (or Joice).
 
-Recently completed a **KAIST** Non-degree program, **CS-focused** coding bootcamp (https://swjungle.net/).
+Recently completed a **KAIST** Non-degree program, **ComputerScience-focused** coding bootcamp (https://swjungle.net/).
 
 
 <br>
